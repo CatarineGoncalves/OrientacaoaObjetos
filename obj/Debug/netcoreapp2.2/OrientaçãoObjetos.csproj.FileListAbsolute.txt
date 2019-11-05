@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\PASTA DAS PASTAS QUE ESTAVAM NA TELA\OrientaçãoObjetos\bin\Debug\netcoreapp2.2\OrientaçãoObjetos.deps.json
+C:\Users\fic\Desktop\PASTA DAS PASTAS QUE ESTAVAM NA TELA\OrientaçãoObjetos\bin\Debug\netcoreapp2.2\OrientaçãoObjetos.runtimeconfig.json
+C:\Users\fic\Desktop\PASTA DAS PASTAS QUE ESTAVAM NA TELA\OrientaçãoObjetos\bin\Debug\netcoreapp2.2\OrientaçãoObjetos.runtimeconfig.dev.json
+C:\Users\fic\Desktop\PASTA DAS PASTAS QUE ESTAVAM NA TELA\OrientaçãoObjetos\bin\Debug\netcoreapp2.2\OrientaçãoObjetos.dll
+C:\Users\fic\Desktop\PASTA DAS PASTAS QUE ESTAVAM NA TELA\OrientaçãoObjetos\bin\Debug\netcoreapp2.2\OrientaçãoObjetos.pdb
+C:\Users\fic\Desktop\PASTA DAS PASTAS QUE ESTAVAM NA TELA\OrientaçãoObjetos\obj\Debug\netcoreapp2.2\OrientaçãoObjetos.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\PASTA DAS PASTAS QUE ESTAVAM NA TELA\OrientaçãoObjetos\obj\Debug\netcoreapp2.2\OrientaçãoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\PASTA DAS PASTAS QUE ESTAVAM NA TELA\OrientaçãoObjetos\obj\Debug\netcoreapp2.2\OrientaçãoObjetos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\PASTA DAS PASTAS QUE ESTAVAM NA TELA\OrientaçãoObjetos\obj\Debug\netcoreapp2.2\OrientaçãoObjetos.AssemblyInfo.cs
+C:\Users\fic\Desktop\PASTA DAS PASTAS QUE ESTAVAM NA TELA\OrientaçãoObjetos\obj\Debug\netcoreapp2.2\OrientaçãoObjetos.dll
+C:\Users\fic\Desktop\PASTA DAS PASTAS QUE ESTAVAM NA TELA\OrientaçãoObjetos\obj\Debug\netcoreapp2.2\OrientaçãoObjetos.pdb
